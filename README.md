@@ -12,8 +12,6 @@
 
 
 
-
-
 <!-- Social Badges -->
 <a href="https://vaiboov.cloud"><img src="https://img.shields.io/badge/Portfolio-vaiboov.cloud-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/vaibhav-shrinagarwar-15402016b"><img src="https://img.shields.io/badge/LinkedIn-vaibhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,6 +21,11 @@
 </a>
 
 <br/><br/>
+
+
+</div>
+
+<br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
 
@@ -222,10 +225,6 @@ Course enrollment platform built as a React SPA with three Spring Boot microserv
 
 <img src="https://komarev.com/ghpvc/?username=vaibhavshrinagarwar&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Focus-CI%20%26%20CD-A855F7?style=flat-square&labelColor=1a1a2e" alt="Focus"/>
-
-</div>
-
-<br/>
 
 <br/><br/>
 
