@@ -19,7 +19,7 @@
 <a href="https://vaiboov.cloud"><img src="https://img.shields.io/badge/Portfolio-vaiboov.cloud-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/vaibhav-shrinagarwar-15402016b"><img src="https://img.shields.io/badge/LinkedIn-vaibhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/vaiboov"><img src="https://img.shields.io/badge/Twitter-@vaiboov-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.youtube.com/@vaiboovcloud">
+<a href="https://www.youtube.com/@vaiboovcloud">  <br>
     <img src="https://img.shields.io/badge/YouTube-@vaiboov-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </p>
   
