@@ -24,15 +24,6 @@
 
 <br/><br/>
 
-<!-- Profile Stats -->
-
-<img src="https://komarev.com/ghpvc/?username=vaibhavshrinagarwar&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Focus-CI%20%26%20CD-A855F7?style=flat-square&labelColor=1a1a2e" alt="Focus"/>
-
-</div>
-
-<br/>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
 
 
@@ -226,6 +217,15 @@ Course enrollment platform built as a React SPA with three Spring Boot microserv
 <a href="https://github.com/vaibhavshrinagarwar?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
+
+<!-- Profile Stats -->
+
+<img src="https://komarev.com/ghpvc/?username=vaibhavshrinagarwar&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Focus-CI%20%26%20CD-A855F7?style=flat-square&labelColor=1a1a2e" alt="Focus"/>
+
+</div>
+
+<br/>
 
 <br/><br/>
 
