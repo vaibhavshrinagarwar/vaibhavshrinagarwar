@@ -27,7 +27,6 @@
 
 <br/><br/>
 
-
 </div>
 
 <br/>
@@ -226,11 +225,12 @@ Course enrollment platform built as a React SPA with three Spring Boot microserv
   <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
+<br>
 <!-- Profile Stats -->
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=vaibhavshrinagarwar&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Focus-CI%20%26%20CD-A855F7?style=flat-square&labelColor=1a1a2e" alt="Focus"/>
-
+</p>
 <br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Let's+build+something+amazing+together!;Always+learning%2C+always+shining+%F0%9F%9A%80" alt="Footer Typing"/>
