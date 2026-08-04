@@ -8,7 +8,9 @@
 </p>
 
 <!-- Typing Effect -->
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Building+Reliable+Pipelines+for+%F0%9F%9A%80;Modern+Cloud-Native+Applications+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 
 
