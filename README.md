@@ -1,7 +1,11 @@
-<div align="center">
-
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Shrinagarwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Devops%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20%20Linux%20 Administrator&descAlignY=52&descSize=18" width="100%"/>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Shrinagarwar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Linux%20Administrator&descAlignY=52&descSize=18"
+    width="100%"
+  />
+</p>
 
 <!-- Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Building+Reliable+Pipelines+for+%F0%9F%9A%80;Modern+Cloud-Native+Applications+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
