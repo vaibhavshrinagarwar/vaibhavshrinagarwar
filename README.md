@@ -190,7 +190,7 @@ This is a simple Flask app that interacts with a MySQL database. The app allows 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18"/> [PLearning Platform Application](https://github.com/vaibhavshrinagarwar/cdec-alpha-app)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18"/> [Learning Platform Application](https://github.com/vaibhavshrinagarwar/cdec-alpha-app)
 
 **CDEC Alpha — Learning Platform**
 
